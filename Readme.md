@@ -38,11 +38,10 @@ To set up the project locally:
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-username/high-school-coding-competition.git
-```
-2.
-  ```sh
+
+2. Navigate to the code directory
+   ```sh
    cd high-school-coding-competition
-```
 
 ## Usage
 Development: Start the development server and visit http://localhost:3000 to see the website in action.
