@@ -13,6 +13,7 @@ Welcome to the official repository for the Namibia Annual High School Programmin
 - [License](#license)
 - [Contact](#contact)
 
+
 ## Introduction
 
 The website is designed to facilitate the registration process for schools and participants, provide event schedules, and offer updates and news. The event will be held annually at various locations.
@@ -39,10 +40,9 @@ To set up the project locally:
    ```sh
    git clone https://github.com/your-username/high-school-coding-competition.git
 
-2.
-  ```sh
+2. navigate to the repo's directory
+   ```sh
    cd high-school-coding-competition
-
 
 ## Usage
 Development: Start the development server and visit http://localhost:3000 to see the website in action.
