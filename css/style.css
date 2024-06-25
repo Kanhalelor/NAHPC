@@ -1,3 +1,7 @@
+/* imports */
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+DE+Grund&display=swap');
+
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -62,7 +66,13 @@ h6 {
   overflow: visible;
   background: #fff url("../img/preloader.svg") no-repeat center center;
 }
-
+/* logo */
+/* .logo a {
+  font-family: "Playwrite DE Grund", cursive;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+} */
 /* Back to top button */
 
 .back-to-top {
