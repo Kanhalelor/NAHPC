@@ -1,13 +1,9 @@
 /* imports */
 
-@import url('https://fonts.googleapis.com/css2?family=Playwrite+DE+Grund&display=swap');
 
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-html {
-  scroll-behavior: smooth;
-}
 
 body {
   background: #fff;
